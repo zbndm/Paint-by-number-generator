@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d76504e5.chunk.css",
+    "main.js": "/static/js/main.bd34a809.chunk.js",
+    "main.js.map": "/static/js/main.bd34a809.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e6c1c92d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e6c1c92d.js.map",
+    "static/js/2.78bed16b.chunk.js": "/static/js/2.78bed16b.chunk.js",
+    "static/js/2.78bed16b.chunk.js.map": "/static/js/2.78bed16b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.d76504e5.chunk.css.map": "/static/css/main.d76504e5.chunk.css.map",
+    "static/js/2.78bed16b.chunk.js.LICENSE.txt": "/static/js/2.78bed16b.chunk.js.LICENSE.txt",
+    "static/media/my-image.css": "/static/media/ProximaNova-Regular.d97f8f32.eot",
+    "static/media/caret.17f0a4fb.svg": "/static/media/caret.17f0a4fb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6c1c92d.js",
+    "static/js/2.78bed16b.chunk.js",
+    "static/css/main.d76504e5.chunk.css",
+    "static/js/main.bd34a809.chunk.js"
+  ]
+}
